@@ -1,32 +1,121 @@
-# [💻 A tela de login mais bonita do mundo com Tailwind CSS](https://codante.io/mini-projetos/mp-tela-login-tailwind)
-
-Você foi contratado por uma empresa de desenvolvimento de software para criar a tela de login mais bonita do mundo usando o framework Tailwind CSS. A empresa deseja proporcionar uma experiência visualmente agradável aos usuários ao fazerem login em seus sistemas.
-
-## 🔨 Requisitos
-- Crie uma tela de login responsiva, que se adapte a diferentes tamanhos de tela.
-- Utilize o framework Tailwind CSS para estilizar os elementos da tela de login.
-- A tela de login deve conter os seguintes elementos:
-  - Campo de entrada para o nome de usuário.
-  - Campo de entrada para a senha.
-  - Botão "Entrar" para fazer o login.
-- Implemente a validação dos campos de entrada. Caso algum campo esteja vazio, exiba uma mensagem de erro.
-- Após o usuário fazer o login com sucesso, redirecione-o para uma página de boas-vindas.
-- Capriche no design! Use sua criatividade para criar uma interface atraente e amigável, aproveitando os recursos oferecidos pelo Tailwind CSS.
-
-## 🔍 Dicas
-- Considere adicionar transições e animações suaves para tornar a experiência do usuário mais agradável.
-- Teste seu design em diferentes dispositivos e navegadores para garantir que ele seja responsivo e funcional em todos eles.
-
-## 🎨 Design sugerido
-🔗 [Acesse o link do Figma](https://www.figma.com/file/suvmja6210ggZOO6Cpehjl/Mini-Projeto---A-tela-de-login-mais-bonita-do-mundo?type=design&node-id=0%3A1&t=pnT8xEiypSKTO4Z7-1)
-
-![image](https://github.com/codante-io/mp-tela-login-tailwind/assets/6475893/914bc33a-ed2a-4720-bf3a-f2c2d9eb41a8)
 
 
-## 📝 Mockups
-![Screenshot_2023-05-06_134731-removebg-preview](https://user-images.githubusercontent.com/6475893/236636789-b03715d5-7010-4e46-af97-b4a901d0fe63.png)
+<h1 align="center"> Login • codante </h1>
 
-## 💡 Inspiração
-- https://dribbble.com/shots/5792716-Login-page
-- https://dribbble.com/shots/3546598-Sign-In
-- https://www.youtube.com/watch?v=t-EMinSz_Tk
+[comment]: <> (Adicione o seu usuário  e o nome do repositório)
+
+<p align="center">
+  <image
+  src="https://img.shields.io/github/languages/count/ojonatasquirino/login"
+  />
+  <image
+  src="https://img.shields.io/github/languages/top/ojonatasquirino/login"
+  />
+  <image
+  src="https://img.shields.io/github/last-commit/ojonatasquirino/login"
+  />
+
+</p>
+
+# sumário 
+
+- [objetivos](#id01)
+- [descrição detalhada](#id01.01)
+- [tecnologias utilizadas](#id02)
+- [ambiente de codificação](#id03)
+- [clonagem e instalação](#id04)
+- [deploy e implatação](#id05)
+- [responsividade](#id06)
+- [autoria](#id07)
+
+
+
+# objetivos <a name="id01"></a>
+
+<div  align='center'> 
+  
+Desenvolver uma tela de login com o framework TailwindCSS. 
+<hr>
+
+Acesse a documentação do framework clicando <a href='https://tailwindcss.com/'> aqui</a>.
+
+</div>
+
+
+# descrição detalhada <a name="id01.01"></a>
+
+<div  align='center'> 
+O objetivo de desenvolvimento desse projeto é compreender como funciona o uso do TailwindCSS e suas classes no HTML. Hoje o Tailwind é uma das ferramentas mais utilizadas no desenvolvimento web para contruição de interfaces modernas.
+</div>
+
+
+# tecnologias utilizadas <a name="id02"></a>
+
+<div  align='center'> 
+
+![tailwindcss](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=blue)![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5&logoColor=red)
+
+
+
+</div>
+
+# ambiente de codificação <a name="id03"></a>
+
+<div  align='center'> 
+
+![](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
+![node](https://img.shields.io/badge/Nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
+![git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=red)
+![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)
+</div>
+
+
+# clonagem e instalação <a name="id04"></a>
+
+Clone este repositório usando o comando:
+
+```bash
+git clone https://github.com/ojonatasquirino/login.git
+```
+
+Instale na pasta do projeto as dependências com uso do npm ou yarn:
+
+```bash
+adicione aqui os prcocessos adicionais e dependências 
+```
+[comment]: <> (Adicione o link da implatação, se houver)
+
+# deploy e implatação  <a name="id05"></a>
+
+[comment]: <> (Adicione o link da implatação)
+
+# responsividade  <a name="id06"></a>
+
+## mobile 
+
+[comment]: <> (adicione a imagem)
+
+## tablet
+
+[comment]: <> (adicione a imagem)
+
+## desktop 
+
+[comment]: <> (adicione a imagem)
+
+# autoria <a name="id07"></a>
+
+[comment]: <> (Adicione seu nome e função)
+
+<h3 align='center'> @ojonatasquirino • desenvolvedor front-end
+ </h3>
+
+#
+
+<div  align='center'>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
+<a href = "mailto:quirinoj02@gmail.com">
+![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
+[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino) [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
+</div>
