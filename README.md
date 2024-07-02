@@ -34,7 +34,7 @@
 
 <div  align='center'> 
   
-Desenvolver uma tela de login com o framework TailwindCSS. 
+Desenvolver uma tela de login com o framework TailwindCSS e bibliotecas UI com componetes prontos. Além uma tela minimalista, a ideia desse projeto é trazer uma experiência real de cadastro e autenticação por e-mail utilizando tecnologias back-end e banco de dados que serão experimentados de acordo com as demandas e exigências do projeto.
 <hr>
 
 Acesse a documentação do framework clicando <a href='https://tailwindcss.com/'> aqui</a>.
@@ -45,16 +45,18 @@ Acesse a documentação do framework clicando <a href='https://tailwindcss.com/'
 # descrição detalhada <a name="id01.01"></a>
 
 <div  align='center'> 
-O objetivo de desenvolvimento desse projeto é compreender como funciona o uso do TailwindCSS e suas classes no HTML. Hoje o Tailwind é uma das ferramentas mais utilizadas no desenvolvimento web para contruição de interfaces modernas.
+O objetivo de desenvolvimento desse projeto é compreender como funciona o uso do TailwindCSS e suas classes no HTML. Hoje o Tailwind é uma das ferramentas mais utilizadas no desenvolvimento web para contruição de interfaces modernas. Para o back-end, será utilizado o NodeJS e o MongoMD para banco de dados para armazenamento das informações do usuário.
 </div>
 
 
-# tecnologias utilizadas <a name="id02"></a>
+# tecnologias utilizadas (até agora) <a name="id02"></a>
 
 <div  align='center'> 
-
-![tailwindcss](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=blue)![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5&logoColor=red)
-
+  
+![javascript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=blue)
+![node](https://img.shields.io/badge/Nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
+![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5&logoColor=red)
 
 
 </div>
