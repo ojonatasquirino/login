@@ -37,7 +37,11 @@
 Desenvolver uma tela de login com o framework TailwindCSS e bibliotecas UI com componetes prontos. Além uma tela minimalista, a ideia desse projeto é trazer uma experiência real de cadastro e autenticação por e-mail utilizando tecnologias back-end e banco de dados que serão experimentados de acordo com as demandas e exigências do projeto.
 <hr>
 
-Acesse a documentação do framework clicando <a href='https://tailwindcss.com/'> aqui</a>.
+Acesse a documentação do framework clicando <a href='https://tailwindcss.com/'> aqui</a>.<br>
+Pratique com framework clicando <a href='https://play.tailwindcss.com/'> aqui</a>.
+
+
+
 
 </div>
 
