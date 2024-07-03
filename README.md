@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Login • codante </h1>
+<h1 align="center"> Login </h1>
 
 [comment]: <> (Adicione o seu usuário  e o nome do repositório)
 
